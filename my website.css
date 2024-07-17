@@ -1,0 +1,270 @@
+h1 {
+    text-align: center;
+    border: 2px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+ul {
+    list-style-type: none;
+    width: 100%;
+    
+
+
+}
+
+
+.course {
+
+    align-self: center;
+    left: 40%;
+    margin-top: 50px;
+    color: #530686
+}
+
+li a {
+    display: block;
+    color: #000;
+    text-decoration: none;
+    padding: 6px 10px;
+
+}
+
+li a:hover {
+    background-color: #8701e0;
+    color: rgb(248, 246, 246);
+
+}
+
+.imga1 {
+    margin-left: 33%;
+    margin-top: 10px;
+}
+
+.imga2 {
+    margin-left: 12%;
+    width: 150%;
+}
+
+.imga3 {
+    margin-left: 30%;
+    width: 80%;
+    margin-top: 3px;
+}
+
+.imga4 {
+    margin-left: 30%;
+    width: 80%;
+    margin-top: 3px;
+}
+
+li {
+    display: inline;
+    float: left;
+    padding: 4px 38px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+img {
+    width: 50%;
+}
+img:hover{
+    opacity: 90%;
+}
+img4:hover{
+    opacity: 90%;
+    width: 40%;
+}
+.homeimg{
+    display: flex;
+}
+
+.learnA1 {
+    border: 1px solid #8701e0;
+    width: 310px;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.nav {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    position: static;
+    margin-top: 0%;
+    margin-left: 80%;
+    width: fit-content;
+    right: 20px;
+}
+
+input.text {
+    padding: 8px;
+    size: 40px;
+    margin-top: 4px;
+    border-radius: 10px;
+}
+
+button {
+    background-color: #8701e0;
+    padding: 8px;
+    margin-right: 0%;
+    border-radius: 10px;
+    width: fit-content;
+}
+
+button:hover {
+    background-color: #530686;
+}
+
+.gallery1 {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 160px;
+    margin-left: 20px;
+    padding-bottom: 7px;
+    margin-top: 5px;
+}
+
+.gallery2 {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 160px;
+    margin-left: 20px;
+    padding-bottom: 12px;
+}
+
+.gallery3 {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 170px;
+    margin-left: 20px;
+}
+
+.gallery4 {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 170px;
+    margin-left: 20px;
+
+}
+
+.clanguage {
+    padding: 10px;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: 11px;
+}
+
+.java {
+    padding: 7px;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.python {
+    margin-top: 25px;
+    padding: 7px;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.cclanguage {
+    margin-top: 0px;
+    padding: 7px;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.gallery1:hover {
+    border: 1px solid #777;
+}
+
+.gallery2:hover {
+    border: 1px solid #777;
+}
+
+.gallery3:hover {
+    border: 1px solid #777;
+}
+
+.gallery4:hover {
+    border: 1px solid #777;
+}
+
+.ab2 {
+    position: fixed;
+    margin-left: 40px;
+
+}
+
+.box1 {
+    background-color: lightgrey;
+    width: 330px;
+    padding: 80px;
+    margin: 10px;
+    height: 280px;
+    right: 60px;
+    border-radius: 50%;
+    position: absolute;
+    top: 150px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.Email {
+    padding: 13px;
+    width: 300px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
+
+
+.coding3 {
+    opacity: 90%;
+    height: 210%;
+    width: 210%;
+}
+
+.box2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: lightgrey;
+    width: 350px;
+    padding: 100px;
+    margin-right: 50%;
+    height: 320px;
+    right: 60px;
+    border-radius: 60%;
+    position: fixed;
+}
+
+.learnA2 {
+    border: 1px solid #8701e0;
+    width: 350px;
+    border-radius: 10px;
+    margin-left: 0%;
+    padding: 8px;
+    margin-top: -4%;
+}
+
+.newAct {
+    padding: 13px;
+    width: 260px;
+    margin-bottom: 15px;
+    border-radius: 10px;
+    margin-left: 7%;
+}
+
+h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.back {
+    margin-left: 130px;
+
+}
+
+.why {
+    text-align: center;
+    border: 2px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
